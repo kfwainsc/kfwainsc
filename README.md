@@ -1,1 +1,3 @@
-# Kendra Wainscott - Full Stack Developer and Designer
+# Full Stack Developer and Designer
+
+## Kendra Wainscott
