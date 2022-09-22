@@ -13,5 +13,7 @@
 <br/>
 <br/>
 
-In progress collaborative project(s): 
+In progress ***collaborative*** project(s): 
 **Pump Panel Simulator**  collaborator: Lisa Petersen TFD
+In progress personal project(s): 
+**Portfolio** 
