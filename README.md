@@ -6,5 +6,5 @@
 **and view the code at [kfwainsc.github](https://github.com/kfwainsc/kfwainsc.github.io "portfolio page hosted and updated through gitpages")**
 
 ### Current ***Collaborative*** project: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Pump Panel Simulator**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collaborator: Lisa Petersen TFD 
+## Pump Panel Simulator
+#### Collaborator: Lisa Petersen TFD 
