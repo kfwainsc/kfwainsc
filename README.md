@@ -8,11 +8,10 @@
 
 <br/>
 <br/>
-Currently accepting new clients 
+### Currently accepting new clients 
 
 <br/>
 <br/>
 
 In progress collaborative project(s): 
-### Pump Panel Simulator  
-collaborator: Lisa Petersen TFD
+**Pump Panel Simulator**  collaborator: Lisa Petersen TFD
