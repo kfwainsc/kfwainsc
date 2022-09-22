@@ -17,4 +17,4 @@ In progress ***collaborative*** project(s):
 
 In progress personal project(s): 
 
-**Portfolio** 
+**Photographic Portfolio Revamp, Study Tool Improvement** 
